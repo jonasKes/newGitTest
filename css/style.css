@@ -3,3 +3,7 @@
 	-o-transition: all 1s;
 	transition: all 1s;
 }
+.container{
+	padding: 2px;
+	width: 24px;
+}
